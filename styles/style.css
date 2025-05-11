@@ -61,11 +61,21 @@ p{
     font-family: 'Figtree-bold';
 }
 
+.content h3{
+    cursor: pointer;
+}
+
+
 .content{
     display: flex;
     justify-content: center;
     flex-direction: column;
     gap: 16px;
+}
+
+.content h3:hover{
+    color: #f5d04e;
+    transition: 0.2s;
 }
 img{
     border-radius: 14px;
