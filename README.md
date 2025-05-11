@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/Srini255/Front-End-mentor/blog-preview-card)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/Srini255/blog-preview-card-main)
+- Live Site URL: [Live Demo](https://blogpreviewcard255.netlify.app/)
 
 ## My process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Srinivash](https://www.frontendmentor.io/profile/Srinivash)
-- GitHub - [Srinivash](https://github.com/Srinivash)
+- Frontend Mentor - [@Srinivash](https://www.frontendmentor.io/profile/Srini255)
+- GitHub - [Srinivash](https://github.com/Srini255)
